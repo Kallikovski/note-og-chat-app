@@ -1,4 +1,0 @@
-features:
-
-- open graph protcol support
-- project restructure
